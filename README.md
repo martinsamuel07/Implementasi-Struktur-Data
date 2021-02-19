@@ -1,2 +1,4 @@
 # Implementasi-Struktur-Data
-REPOSITORY UNTUK TUGAS ISD
+Nama : Martin Samuel
+NIM  : 6706204004
+Kelas: D3RPLA 44 04
